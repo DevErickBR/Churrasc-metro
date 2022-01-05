@@ -1,0 +1,5 @@
+carne = 400 gramas por pessoa, se + DE 6 HORAS = 650 gramas por pessoa.
+cerveja = 1200 ml por pessoa, se + DE 6 HORAS = 2000ml.
+refrigerante/agua = 1000ml por pessoa, se + 6 horas  1500ml.
+
+crianças valem por 0,5. 
